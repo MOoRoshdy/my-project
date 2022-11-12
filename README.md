@@ -2,4 +2,4 @@
 it's my first project
 
 
-## project notic 
+## project notes
